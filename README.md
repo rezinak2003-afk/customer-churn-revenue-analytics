@@ -1,4 +1,4 @@
-# Customer Churn & Revenue Analytics
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt# Customer Churn & Revenue Analytics
 
 An end-to-end analytics portfolio project using Python, pandas, SQL, and Streamlit, with a Power BI build guide. It analyses the IBM Telco Customer Churn sample dataset to explore churn rates, segment differences, and retention-screening priorities.
 
